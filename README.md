@@ -10,13 +10,12 @@ Apresentar um modelo de um site responsivo, que oferece funcionalidades como com
 - JavaScript
 - HTML
 - CSS
-- AngularJS
+- Angular
 - BootStrap
-- Jquery
 
 # Autores
 
 - Luan Vinícios de Aguiar
 
 # Atualização
-Versão liberada para utilização atualizada na data de 02/10/2020.
+Versão de inicialização, faltando funcionalidades.
